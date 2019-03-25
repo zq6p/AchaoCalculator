@@ -1,0 +1,11 @@
+C:\Users\VULCAN\AchaoCalculator\zq6p\Achao\Achao\bin\Debug\netcoreapp2.1\Achao.deps.json
+C:\Users\VULCAN\AchaoCalculator\zq6p\Achao\Achao\bin\Debug\netcoreapp2.1\Achao.runtimeconfig.json
+C:\Users\VULCAN\AchaoCalculator\zq6p\Achao\Achao\bin\Debug\netcoreapp2.1\Achao.runtimeconfig.dev.json
+C:\Users\VULCAN\AchaoCalculator\zq6p\Achao\Achao\bin\Debug\netcoreapp2.1\Achao.dll
+C:\Users\VULCAN\AchaoCalculator\zq6p\Achao\Achao\bin\Debug\netcoreapp2.1\Achao.pdb
+C:\Users\VULCAN\AchaoCalculator\zq6p\Achao\Achao\obj\Debug\netcoreapp2.1\Achao.csprojAssemblyReference.cache
+C:\Users\VULCAN\AchaoCalculator\zq6p\Achao\Achao\obj\Debug\netcoreapp2.1\Achao.csproj.CoreCompileInputs.cache
+C:\Users\VULCAN\AchaoCalculator\zq6p\Achao\Achao\obj\Debug\netcoreapp2.1\Achao.AssemblyInfoInputs.cache
+C:\Users\VULCAN\AchaoCalculator\zq6p\Achao\Achao\obj\Debug\netcoreapp2.1\Achao.AssemblyInfo.cs
+C:\Users\VULCAN\AchaoCalculator\zq6p\Achao\Achao\obj\Debug\netcoreapp2.1\Achao.dll
+C:\Users\VULCAN\AchaoCalculator\zq6p\Achao\Achao\obj\Debug\netcoreapp2.1\Achao.pdb
